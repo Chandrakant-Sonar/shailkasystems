@@ -45,13 +45,14 @@
 }
 .app {
   width: 99%;
+      height: 30%;
   background-image: url('../../data/cta-bg.webp');
   background-size:cover;
   background-position: cover;
   height: auto;
   z-index: -1;
   position: absolute;
-  height: 30%;
+
  
 
 }
