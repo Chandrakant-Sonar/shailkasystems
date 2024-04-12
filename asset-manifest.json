@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/shailka/static/css/main.20bcd292.css",
+    "main.js": "/shailka/static/js/main.9401f11e.js",
+    "static/media/get-in-touch-1.webp": "/shailka/static/media/get-in-touch-1.15b3910fc3673c7ea397.webp",
+    "static/media/mobile-mobile.png": "/shailka/static/media/mobile-mobile.4603e339cad90ab9420d.png",
+    "static/media/enterprise_ready.jpg": "/shailka/static/media/enterprise_ready.10cec8b19b34254da07b.jpg",
+    "static/media/vision.png": "/shailka/static/media/vision.c5e1016386ce2107c17a.png",
+    "static/media/group-266.webp": "/shailka/static/media/group-266.9b5c53d3da7338e283f4.webp",
+    "static/media/311506-P8G2XL-229-1.png": "/shailka/static/media/311506-P8G2XL-229-1.5a7834c3af18ddff051d.png",
+    "static/media/handshake-icon-graphic-an54g0vbppswmf14.png": "/shailka/static/media/handshake-icon-graphic-an54g0vbppswmf14.3b6a7ba246bf97d4d153.png",
+    "static/media/IoT_devices_at_the_edge__depicting_the_volume_of_data_generated_and_.png": "/shailka/static/media/IoT_devices_at_the_edge__depicting_the_volume_of_data_generated_and_.709aa0da043d6df96b0e.png",
+    "static/media/Core-Blockchain-Developer.png": "/shailka/static/media/Core-Blockchain-Developer.334af037ac33c97c556a.png",
+    "static/media/first step.png": "/shailka/static/media/first step.b8a48c77e20e684a5b3e.png",
+    "static/media/front-end-development-logos-hd-png-download.png": "/shailka/static/media/front-end-development-logos-hd-png-download.9c0cb2051be80922db6f.png",
+    "static/media/cta-bg.webp": "/shailka/static/media/cta-bg.dc498e0e3a8a00f24aec.webp",
+    "static/media/istockphoto-1244666924-612x612.jpg": "/shailka/static/media/istockphoto-1244666924-612x612.a5f9f890392ff967e953.jpg",
+    "static/media/backend.png": "/shailka/static/media/backend.3c2f27a6039a7dc6dda9.png",
+    "static/media/saleforce.png": "/shailka/static/media/saleforce.c1b0651bd1362f519b33.png",
+    "static/media/DEVOPS.png": "/shailka/static/media/DEVOPS.c80017f1028e967d9d68.png",
+    "static/media/graphic-designer-and-video-editing.png": "/shailka/static/media/graphic-designer-and-video-editing.61bf56c38615a9f8f7a3.png",
+    "static/media/cropped-logo-1_edited.png": "/shailka/static/media/cropped-logo-1_edited.69faedd661660e5f1cf0.png",
+    "static/media/SAP develpper.png": "/shailka/static/media/SAP develpper.ee7aa5e6c2d9b7874c48.png",
+    "static/media/flexible-staff-modified.webp": "/shailka/static/media/flexible-staff-modified.1b261fa85b720746f68d.webp",
+    "static/media/Mail-logo.jpeg": "/shailka/static/media/Mail-logo.b7310f1e00bd576183b9.jpeg",
+    "static/media/instagram-logo.jpeg": "/shailka/static/media/instagram-logo.2db684973f331d4dad14.jpeg",
+    "static/media/matching-speed-modified.webp": "/shailka/static/media/matching-speed-modified.ebc6dd3b082999f035b5.webp",
+    "static/media/heading-bg.webp": "/shailka/static/media/heading-bg.637917ed01f88c65c98c.webp",
+    "index.html": "/shailka/index.html",
+    "main.20bcd292.css.map": "/shailka/static/css/main.20bcd292.css.map",
+    "main.9401f11e.js.map": "/shailka/static/js/main.9401f11e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bcd292.css",
+    "static/js/main.9401f11e.js"
+  ]
+}
