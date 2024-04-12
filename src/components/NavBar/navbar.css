@@ -1,0 +1,50 @@
+.navbar{
+    background-color: rgb(160,160,160);
+    height: 1rem;
+    width: auto;
+    max-width: 100%;
+    margin: auto;
+    padding: 1.5rem 6rem;
+    display: flex;
+    align-items: center;
+    position:sticky;
+    top: 0;
+    justify-content: space-between;
+    z-index: 1;
+    background-image: url('../../data/cta-bg.webp');
+    background-size: cover;
+    background-position: cover;
+    height:1rem;
+    z-index: 1;
+  
+    
+    
+}
+
+.logo{
+
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+}
+
+.desktopMenuListItems{
+    margin: 1rem;
+    cursor: pointer;
+    color:black;
+    
+    
+}
+
+.desktopMenuListItems:hover{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+    margin: 1rem;
+    cursor: pointer;
+}
+.active{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}

@@ -1,0 +1,134 @@
+.flow{
+    
+    height: 10rem;
+    width: 100%;
+   
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.about{
+   display: block;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+    margin-left: 0rem;
+    margin-right: 5rem;
+    background-image: url('../../data/cta-bg.webp');
+    background-size:cover;
+    background-position:cover;
+    height: auto;
+    z-index: -1;
+    position: relative;
+    
+}
+.image {
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100%;
+    height: auto;
+   
+  }
+.subflow{
+    background-image: url('../../data/cta-bg.webp');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    z-index: -1;
+    position: absolute;
+    border: 3px solid grey;
+    border-radius: 10px;
+    display:flexbox;
+    align-items:flex-start;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 2rem 2rem;
+    padding: 1rem;
+}
+
+
+
+.glb{
+    position: absolute;
+    z-index: -1;
+    right:14;
+    top:auto;
+    /* padding-left: -2rem; */
+    object-fit: fill;
+    height: 6vh;
+    width: fit-content;
+    
+}
+.h1{
+    color: black;
+    font-size: 3.5rem;
+    font-weight:700 ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+
+
+.h2{
+    color: black;
+    font-size: 2.5rem;
+    font-weight:700 ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+.h3{
+    color: black;
+    font-size: 1.5rem;
+    font-weight:500 ;
+  
+    width: 100vm;
+    /* max-width: 75rem; */
+    overflow: hidden;
+    position: relative;
+
+}
+.h4{
+    color: black;
+    font-size: 1.5rem;
+    font-weight:300 ;
+
+}
+
+
+
+@media  screen and (max-width:840px) {
+    .bg {
+        right: auto;
+    }
+
+    .introContent{
+        font-size: auto;
+    }
+    .h2{
+        font-size: 2.5rem;
+        color: black;
+    }
+    .h1{
+        font-size:3.5rem;
+        color: black;
+    }
+
+    .h3{
+        font-size: 1.5rem;
+        color: black;
+    }
+
+}
+@media  screen and (max-width:480px) {
+    .bg {
+        right: auto;
+    }
+
+
+}

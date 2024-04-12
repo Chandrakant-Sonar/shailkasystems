@@ -1,0 +1,61 @@
+#contactUs{
+
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    display: flex; 
+    /* flex-wrap: wrap;     */
+    align-items: center;
+    justify-content: center;
+    background-image: url('../../data/cta-bg.webp');
+    background-size: cover;
+    background-position:cover;
+    height: auto;
+    /* z-index: -1;  */
+    position: relative;
+      
+
+}
+.image{
+
+    height: 20rem;
+    width: auto;
+    
+}
+.h1{
+    font-size: 3rem;
+    margin-bottom: 0.5 rem;
+    color: black;
+}
+
+
+
+.contactform{
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vm;
+    max-width: 60rem;
+}
+.name,.email,.msg{
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.25rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(40,40,40);
+}
+.submit1 {
+    border: 1px solid black;
+    background-color:darkslateblue;
+    font: bold;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    padding: 0.75rem 2.5rem;
+    color: aliceblue;
+}
